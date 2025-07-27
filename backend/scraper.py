@@ -53,3 +53,4 @@ def get_price(url):
     except Exception as e:
         print("Scraper error:", e)
         return None
+k
