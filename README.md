@@ -10,10 +10,8 @@
 
 <h2>📸 Demo</h2>
 
-<p>
-  <img src="https://your-screenshot-link-here.com" alt="App UI" width="600"/>
-</p>
-<em>Add a screenshot or Loom demo link here</em>
+![FORM](screenshots/screenshot2.png)
+![FORM](screenshots/screenshot1.png)
 
 ---
 
