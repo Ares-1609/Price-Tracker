@@ -1,0 +1,44 @@
+# =============== PYTHON / FLASK ===============
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+*.env
+*.env.*
+instance/
+.venv/
+venv/
+ENV/
+env/
+backend/.env
+
+# =============== REACT / NODE ===============
+node_modules/
+build/
+.env
+frontend/.env
+
+# =============== OS & EDITOR FILES ===============
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# =============== PYTEST / COVERAGE ===============
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.cache/
+
+# =============== VSCODE / IDEs ===============
+.vscode/
+.idea/
+
+# =============== OTHER ===============
+*.zip
+*.tar.gz
+*.egg-info/
+dist/
