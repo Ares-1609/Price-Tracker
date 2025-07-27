@@ -10,7 +10,7 @@
 
 <h2>📸 Demo</h2>
 
-![FORM](screenshots/screenshot1.png)
+![FORM](screenshots/screenshot2.png)
 ![FORM](screenshots/screenshot1.png)
 
 ---
